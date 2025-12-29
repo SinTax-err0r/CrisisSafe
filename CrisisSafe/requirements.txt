@@ -8,3 +8,5 @@ python-dotenv
 newspaper3k
 textblob
 duckduckgo-search==8.1.1
+lxml
+lxml_html_clean
