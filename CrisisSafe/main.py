@@ -260,6 +260,8 @@ body, .stApp {
     font-weight: 700;
     color: #3d3228;
     font-variant: small-caps;
+    padding-left: 0.25em; /* Centers the text by balancing the trailing letter-spacing */
+    display: block;
 }
 
 /* FLAGS / REPORT - Victorian list style */
