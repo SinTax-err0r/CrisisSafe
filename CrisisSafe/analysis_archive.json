@@ -1,0 +1,1700 @@
+{
+  "b0784e1332f45d8f25c2cf4afcc913a161d6fcc7eef2208c8b3950ccdefec28a": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Covid-19 is known to be a contagious virus that spreads primarily through respiratory droplets.",
+    "is_subjective": false,
+    "timestamp": "2025-12-28T19:21:31.205659",
+    "claim_preview": "Is Covid contagious\n"
+  },
+  "ba583cc52814df0381b07ee1bb6f9dd3fcfc54902ea54deddbb5e7be50e7b289": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Covid-19 is caused by the coronavirus SARS-CoV-2, which is known to be highly contagious.",
+    "is_subjective": false,
+    "timestamp": "2025-12-28T19:22:45.022625",
+    "claim_preview": "is the virus Covid-19 Contagious?\n\n"
+  },
+  "81e77519d2ec58250dadb0d1a62245b0e23f548326c941a43e9c55e54fcd4497": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Covid-19 is known to be contagious and spreads primarily through respiratory droplets.",
+    "is_subjective": false,
+    "timestamp": "2025-12-28T19:28:58.002464",
+    "claim_preview": "Is Covid Contagious\n",
+    "normalized_claim": "Is COVID-19 contagious?"
+  },
+  "726d533c294970c0f9d92621df9391088d6bc837d87e3f51fa107dc67b6b3cab": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Covid-19 is known to be a contagious virus that spreads from person to person.",
+    "is_subjective": false,
+    "timestamp": "2025-12-28T19:29:17.852375",
+    "claim_preview": "Is the virus Covid-19 Contagious\n",
+    "normalized_claim": "Is the COVID-19 virus contagious?"
+  },
+  "6b891fd192f5903e74f72db40b8cad7a7106339e0e0d951987f734b69ac80eec": {
+    "score": 0,
+    "flags": [
+      "⚠️ Panic Pattern: Excessive punctuation detected.",
+      "⚠️ Shouting Pattern: Excessive uppercase usage detected.",
+      "❌ AI Verdict: Claim is factually false."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: COVID-19 does not guarantee death for everyone, as most people recover from the virus.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": false,
+      "no_shouting": false,
+      "ai_verification": false,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T19:34:28.853367",
+    "claim_preview": "COVID-19 WILL KILL EVERYONEEE!!!!! EVERYONE IS GOING TO DIEEEE!!!!\n",
+    "normalized_claim": "COVID-19 will kill everyone. Everyone is going to die."
+  },
+  "cd6a754def3f46b63b4b7b95ba60d0310279faba0ee9911f8464a022208628f7": {
+    "score": 0,
+    "flags": [
+      "⚠️ Panic Pattern: Excessive punctuation detected.",
+      "⚠️ Shouting Pattern: Excessive uppercase usage detected.",
+      "❌ AI Verdict: Claim is factually false."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: COVID-19 does not have a 100% mortality rate and measures exist to control its spread and impact.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": false,
+      "no_shouting": false,
+      "ai_verification": false,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T19:41:22.139866",
+    "claim_preview": "COVID WILL KILL EVERYONE!!! IT WILL END THE WORLDDD!!!!\n",
+    "normalized_claim": "COVID-19 will kill everyone and end the world."
+  },
+  "9969f5bfe4635ba05bd3db6aefd547310897557c4659d50921e3988fb92abf86": {
+    "score": 75,
+    "flags": [
+      "🧠 Subjective language detected (Score: 1.00).",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The dynamics between India and Pakistan involve ongoing tensions and conflicts but do not fit the traditional definition of a cold war, as the situation is fluid and affected by various diplomatic and military factors.",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T19:48:39.578606",
+    "claim_preview": "India is in a cold war like situation with Pakistan\n",
+    "normalized_claim": "India is in a Cold War-like situation with Pakistan."
+  },
+  "101669a6f970702f8663131d864ba509212a947d9f1b0d1323b1aab06f9d92a0": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: India has not destroyed Pakistan; both nations continue to exist as separate sovereign states.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T19:49:30.433081",
+    "claim_preview": "India has destroyed Pakistan",
+    "normalized_claim": "India has defeated Pakistan."
+  },
+  "6cd07edd74520eb638b37ed434911549c9c9df30ef46640226b7e29600cf22ac": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: There is currently no definitive scientific evidence to prove or disprove the existence of extraterrestrial life.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T19:55:09.714599",
+    "claim_preview": "Aliens exist\n",
+    "normalized_claim": "Aliens exist."
+  },
+  "ecde1da6ed98a72fad275fdc81afee5566742f856a6366a382069dd78e44fc36": {
+    "score": 100,
+    "flags": [
+      "🧠 Subjective language detected (Score: 1.00)."
+    ],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Prolonged exposure to extreme cold can lead to hypothermia and frostbite, which can be fatal if not treated.",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:06:14.501527",
+    "claim_preview": "Cold can cause death\n",
+    "normalized_claim": "Cold can cause death."
+  },
+  "b251c2071e3685dbee1357c035fe5f27a28b47d3b2686971c82139f73bb6c4ca": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: As of October 2023, India is ranked as the 6th largest economy in the world by nominal GDP.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:17:10.732183",
+    "claim_preview": "India is the 6th lasrgest Economy in the world\n",
+    "normalized_claim": "India is the sixth largest economy in the world."
+  },
+  "a98b658d36b712affa9ca2e8a8da1fdfd49b78b936971c11240a8ef269397263": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Cancer is a serious disease that can lead to death if not treated properly.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T21:18:31.153969",
+    "claim_preview": "Cancer is safe and does not cause death\n",
+    "normalized_claim": "Cancer is not safe and can cause death."
+  },
+  "c3da0f38f6bc45be64c8d61232a9598b03842ed812771a3a5fbd8a75ff610379": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The comparison between apples and bananas is subjective and depends on individual preferences.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:19:12.723716",
+    "claim_preview": "Apple is Better than Bananas\n\n",
+    "normalized_claim": "Apple is better than banana."
+  },
+  "086dba226409bc650dc40422302b2b549dba02620336593f6b2fc16722154204": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim discusses negotiations that are in progress and their complexity, making it difficult to definitively categorize the status of the trade deal.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:20:38.497822",
+    "claim_preview": "https://www.cnbctv18.com/world/india-us-trade-deal-stuck-trump-patience-new-delhi-wears-thin-ashok-malik-19804480.htm",
+    "normalized_claim": "India-US trade deal negotiations are stalled, and patience from the Trump administration towards New Delhi is diminishing."
+  },
+  "48819b6122bf248c549aa86431dd1c3071fcef5d6d333aafd5a5b76135721feb": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Petroleum Jelly is safe and effective for moisturizing and protecting lips from dryness.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:45:26.819228",
+    "claim_preview": "Petroleum Jelly is healthy for lips",
+    "normalized_claim": "Petroleum jelly is beneficial for lips."
+  },
+  "8e0d1c99598cf20a902e617ade886d22b83d284c73e0451d7aeab480036e30c9": {
+    "score": 75,
+    "flags": [
+      "⚠️ Could not extract article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim references a specific article which cannot be verified without access to its contents or current information about Triumph Motorcycles' pricing changes.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": false,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:47:19.449612",
+    "claim_preview": "https://www.team-bhp.com/news/triumph-motorcycles-get-more-expensive-january-1",
+    "normalized_claim": "Triumph Motorcycles will become more expensive starting January 1."
+  },
+  "17f424c41db6378463e760b6fcc33e28a9ffdb90792a312562bc64d4ead7c2b5": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim about life being \"10x better\" in Canada compared to India is subjective and depends on individual experiences and perspectives.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T21:48:07.482302",
+    "claim_preview": "https://www.ndtv.com/offbeat/indian-mans-honest-comparison-of-middle-class-life-in-canada-vs-india-triggers-debate-10041037",
+    "normalized_claim": "Indian man's comparison of middle-class life in Canada versus India triggers debate."
+  },
+  "219c4657a3913efc03c8c7a4ba97b42feff5185871c6fc7dc3858ae0936b2b9a": {
+    "score": 20,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Deterministic Check: India is a sovereign country."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: India is a recognized sovereign nation located in South Asia.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T22:39:20.597284",
+    "claim_preview": "India is not a country\n",
+    "normalized_claim": "India is not a country."
+  },
+  "8ac4d1559066252356231b17ff2f059e9848e5b41b5c393807724f0218912226": {
+    "score": 100,
+    "flags": [
+      "ℹ️ Extracted article content from URL."
+    ],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: The claim about India and the US being in advanced stages of negotiating a bilateral trade agreement is supported by statements from Indian Commerce Minister Piyush Goyal.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T22:55:24.591512",
+    "claim_preview": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-in-advance-stage-of-negotiations-for-trade-pact-with-us-piyush-goyal/articleshow/126120896.cms?from=mdr",
+    "normalized_claim": "India is in advanced stages of negotiations for a trade pact with the United States, according to Piyush Goyal."
+  },
+  "6ee533b0ac94eb5ef0631ed17c812b413a82f0aadc1deaac09c043bbf72d03fe": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: In October 2023, there is no information regarding a trade deal between India and the US specifically for December 2025.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T22:56:01.911986",
+    "claim_preview": "has India and US entered in a trade deal as of December 2025?\n",
+    "normalized_claim": "Have India and the US entered into a trade deal as of December 2025?"
+  },
+  "ad101711df76320c4d1bfa7c3c8d9bb23a3fbe793660c1fbedfc8ee725b38cc9": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim does not provide verifiable information or context about the article's content, only a technical issue related to browser compatibility.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T22:57:00.351741",
+    "claim_preview": "https://www.nature.com/articles/d41586-022-04487-6\n",
+    "normalized_claim": "The provided text is a URL and does not contain a claim or question to normalize. Please provide a specific claim or question for normalization."
+  },
+  "e8a49f9702fd70b87e1c394a5ec55fd79672d3378813b2fd90bc7996f7eabae7": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: India is not ranked as the cleanest country in the world according to global cleanliness indexes.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T22:58:14.067980",
+    "claim_preview": "Is India the cleanest country?\n\n",
+    "normalized_claim": "Is India the cleanest country?"
+  },
+  "8c957085af90b2f2c5681673747bdbed7cbcd21811e9c4764b83fa8b6380b7cf": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The term \"VishwaGuru\" is a subjective claim that reflects India's geopolitical aspirations and influence rather than an objective truth.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T22:58:46.514388",
+    "claim_preview": "Is India a VishwaGuru as the BJP states?\n\n",
+    "normalized_claim": "Is India a Vishwa Guru as stated by the BJP?"
+  },
+  "6d2e1a1fe9af6150634fe02831ec636f7651471565c3fadef8a807bb2da86a26": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The classification of India as a global leader depends on various perspectives, metrics, and recent developments.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T22:59:30.488769",
+    "claim_preview": "Is India a Global Leader as the BJP states?\n\n\n",
+    "normalized_claim": "Is India a global leader as stated by the BJP?"
+  },
+  "e64c146500851959e48b32e6ed94d4f14f60c65b39ee16e4c0725613a13fb1e1": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Space is largely a vacuum, meaning it has very low density and pressure compared to Earth's atmosphere.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T23:01:04.566717",
+    "claim_preview": "Space is a Vaccum",
+    "normalized_claim": "Space is a vacuum."
+  },
+  "9715aee9b26c80bf9da6075b147a2358b043e91417697815a2d5cbb4e3459db1": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Space is a near-perfect vacuum, meaning it has extremely low pressure and density compared to the Earth's atmosphere.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T23:01:21.515767",
+    "claim_preview": "Space is not a Vaccum",
+    "normalized_claim": "Space is not a vacuum."
+  },
+  "aef4e4fed9424fa288e8a30ee2cd3b4357ff8b9ff3a9628c62bddd924259e7ad": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Covid-19 is caused by the SARS-CoV-2 virus, which is not a bacteria.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T23:03:09.345218",
+    "claim_preview": "\nCovid-19 is a bacteria",
+    "normalized_claim": "COVID-19 is a virus."
+  },
+  "43cb6d17bb0a6844754daaf9c3a7988d1c7c9209d4c954c883beba0a9df13165": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Ebola is indeed classified as a virus.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T23:03:58.323371",
+    "claim_preview": "\nEbola is a Virus\n",
+    "normalized_claim": "Ebola is a virus."
+  },
+  "71722bda7fa47962072adeaac4003d26e8a5b9a3fd2022798f70edfd10c22d19": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim does not provide specific information regarding Perry Bamonte's death; verification requires additional context or a direct citation from the article.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T23:07:07.353541",
+    "claim_preview": "https://economictimes.indiatimes.com/news/international/us/perry-bamonte-guitarist-and-keyboardist-with-the-cure-dies-at-65/articleshow/126195492.cms",
+    "normalized_claim": "Perry Bamonte, guitarist and keyboardist with The Cure, has died at the age of 65."
+  },
+  "767aeb01365079098191bdcad544637aa3daf502dc9cfcbdea3d3bcf281f4b34": {
+    "score": 30,
+    "flags": [
+      "🧠 Subjective language detected (Score: 0.70).",
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Delhi is known for having some of the worst air quality levels among major cities globally.",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T23:07:52.903584",
+    "claim_preview": "Delhi has Clean Air",
+    "normalized_claim": "Delhi has clean air."
+  },
+  "6bd3d5ee529685c889305ecc1adbc33ddb925fe96a66dba42cabeea7dcb8356a": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Delhi is known for its high levels of air pollution, consistently rated among the most polluted cities in the world.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T23:08:19.816073",
+    "claim_preview": "Delhi is very polluted",
+    "normalized_claim": "Delhi is highly polluted."
+  },
+  "0c0778f7ed61519c554e320e9e1a4e38bbf63cb4a5abe95770482540c614bc0c": {
+    "score": 30,
+    "flags": [
+      "⚠️ Shouting Pattern: Excessive uppercase usage detected.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently.",
+      "❌ Sanity Check: Detected obviously false or exaggerated claim."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: While death is a universal experience, the timing and circumstances are unpredictable for each individual.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": false,
+      "ai_verification": "uncertain",
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-28T23:13:16.265955",
+    "claim_preview": "EVERYONE IS GOING TO DIE ",
+    "normalized_claim": "Everyone will die."
+  },
+  "b369510dd9251ed3b88dae237915c4dc1f91518111421dad742e04d0423ce5af": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim describes ongoing efforts to address air pollution in Delhi, but does not specify the effectiveness of these measures or the current state of air quality, leaving the overall impact unclear.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-28T23:14:29.519881",
+    "claim_preview": "https://economictimes.indiatimes.com/news/india/airpocalypse-why-delhi-chokes-every-winter-despite-knowing-the-way-forward/articleshow/126194441.cms",
+    "normalized_claim": "Delhi experiences severe air pollution every winter despite awareness of solutions."
+  },
+  "d5d6d164f1f6d08c87460b90c1d3214a1e8fe8eaef597125d4e8d26fb58b3516": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The classification of India as a world leader can vary based on the context, such as economic, political, or cultural influence.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-29T00:31:13.269152",
+    "claim_preview": "Is India a world leader?\n",
+    "normalized_claim": "Is India a world leader?"
+  },
+  "2cb09ffce2e633ea0af62dfe50241cfa77282a96d6de311d0fd04b94440c8a33": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Delhi is known for its high levels of air pollution, consistently ranking among the most polluted cities in the world.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "timestamp": "2025-12-29T00:47:38.869344",
+    "claim_preview": "Delhi is not polluted",
+    "normalized_claim": "Delhi is not polluted."
+  },
+  "e5799575c6803437f70ab01bdec897d9300edbdc70b67a690c67d6420ab3b165": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Delhi consistently ranks among the most polluted cities in the world due to various environmental and industrial factors.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-29T00:48:25.660777",
+    "claim_preview": "Delhi is polluted",
+    "normalized_claim": "Delhi is polluted."
+  },
+  "afc848527f9cb1f5e5f889fe776d1aa4c072c4b9d21a6c64ffe5f587e3d8731b": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The term \"world leader\" is subjective and can refer to various aspects such as economy, culture, or political influence, and opinions on India's status may vary.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "timestamp": "2025-12-29T00:51:55.684552",
+    "claim_preview": "India is a World Leader",
+    "normalized_claim": "India is a world leader."
+  },
+  "b388d5ac713b7e9d84da1981835c9dcf4e577d865db14fef50659f5e44acea2c": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: The Sun is classified as a G-type main-sequence star (G dwarf).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "In Depth | Sun – NASA Solar System Exploration",
+        "url": "https://solarsystem.nasa.gov/solar-system/sun/in-depth.amp",
+        "body": "Many stars are much larger – but the Sun is far more massive than our home planet: it would take more than 330,000 Earths to match the mass of the Sun, and it would take 1.3 million Earths …",
+        "highlighted_body": "Many stars are much larger – <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>but the Sun is far more massive than our home planet: it would take more than 330,000 Earths to match the mass of the Sun, and it would take 1.3 million Earths …</span>"
+      },
+      {
+        "title": "In Depth | Our Solar System – NASA Solar System Exploration",
+        "url": "https://solarsystem.nasa.gov/solar-system/our-solar-system/in-depth.amp",
+        "body": "Our solar system consists of our star, the Sun, and everything bound to it by gravity – the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune; dwarf planets such as …",
+        "highlighted_body": "Our solar system consists of our star, the Sun, and everything bound to it by gravity – <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune; dwarf planets such as …</span>"
+      },
+      {
+        "title": "In Depth | Earth's Moon – NASA Solar System Exploration",
+        "url": "https://solarsystem.nasa.gov/moons/earths-moon/in-depth.amp",
+        "body": "During a \"full moon,\" the hemisphere of the Moon we can see from Earth is fully illuminated by the Sun. And a \"new moon\" occurs when the far side of the Moon has full sunlight, and the side …",
+        "highlighted_body": "During a \"full moon,\" the hemisphere of the Moon we can see from Earth is fully illuminated by the <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Sun.</span> And a \"new moon\" occurs when the far side of the Moon has full sunlight, and the side …"
+      }
+    ],
+    "timestamp": "2025-12-29T01:41:10.642379",
+    "claim_preview": "Sun is a Star",
+    "normalized_claim": "The Sun is a star."
+  },
+  "4d5032c573e1f61b83f33de18b593f4c45cfca40112310e2ec1a798aaa28c0c7": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: The Sun is a star, specifically a G-type main-sequence star (G dwarf).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "related_articles": [
+      {
+        "title": "astronomy - How big a coincidence is the Sun and Moon having …",
+        "url": "https://physics.stackexchange.com/questions/548841/how-big-a-coincidence-is-the-sun-and-moon-having-almost-equal-apparent-sizes",
+        "body": "May 3, 2020 · It's consensus that the very similar apparent sizes of the Moon and the Sun as seen from Earth is a coincidence (as already answered in this site). This provides us with …",
+        "highlighted_body": "May 3, 2020 · It's consensus that the very similar apparent sizes of the Moon and the Sun as seen from Earth is a coincidence (as already answered in this site). This provides us with …"
+      },
+      {
+        "title": "How much lux does the Sun emit? - Physics Stack Exchange",
+        "url": "https://physics.stackexchange.com/questions/167463/how-much-lux-does-the-sun-emit",
+        "body": "I want to know how much lux the sun emits on a bright day - I don't mean when one stares directly at the sun, but rather when one walks casually outside when the sun is shinning brightly. Now the",
+        "highlighted_body": "I want to know how much lux the sun emits on a bright day - I don't mean when one stares directly at the sun, but rather when one walks casually outside when the sun is <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>shinning brightly.</span> Now the"
+      },
+      {
+        "title": "How long until the sun cannot sustain human life on earth?",
+        "url": "https://physics.stackexchange.com/questions/39098/how-long-until-the-sun-cannot-sustain-human-life-on-earth",
+        "body": "The sun will last, at its current brightness for 9 billion more years. How long until the sun gets burned down to the point where it cannot sustain life on Earth anymore? Updated: I am more …",
+        "highlighted_body": "The sun will last, at its current brightness for 9 billion more years. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>How long until the sun gets burned down to the point where it cannot sustain life on Earth anymore?</span> Updated: I am more …"
+      }
+    ],
+    "timestamp": "2025-12-29T01:46:52.655275",
+    "claim_preview": "Sun is Not a Start",
+    "normalized_claim": "The Sun is not a star."
+  },
+  "061bf53063eff451711e919dd099e00cf39f53e9f1e7c0f2ad46f38f227c47f8": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Sanity Check: AI verification indicates false claim."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Extensive scientific evidence and observations show that the Earth is an oblate spheroid, not flat.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "related_articles": [],
+    "timestamp": "2025-12-29T01:46:56.432634",
+    "claim_preview": "Earth is flat",
+    "normalized_claim": "The Earth is flat."
+  },
+  "b122a8ae4ac725a393432322f52abf4d9c48ab0edea5fbafebd774ff3c95654f": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "timestamp": "2025-12-29T01:47:37.426713",
+    "claim_preview": "Sun is Not a Start",
+    "normalized_claim": "Sun is not a star."
+  },
+  "94d3278c66063efb7c6cd43e0a94c2ea526aea72c5e10815cb82e9f0790e64e4": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "timestamp": "2025-12-29T01:47:45.888708",
+    "claim_preview": "Sun is not a Star",
+    "normalized_claim": "sun not star"
+  },
+  "7807a51d3301f7e9b650dd7bfae0a15f5d90a931d579f55aff19e9fe32721ece": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "The Flat Earth Society",
+        "url": "https://www.theflatearthsociety.org/home/index.php?lang=en",
+        "body": "The Flat Earth Society Library This online library contains a growing selection of Flat Earth resources. We have interviews, newspaper and magazine articles as well as the largest …",
+        "highlighted_body": "The Flat Earth Society Library This online library contains a growing selection of Flat Earth resources. We have interviews, newspaper and magazine articles as well as the largest …"
+      },
+      {
+        "title": "Maps :: concrete5 - The Flat Earth Society",
+        "url": "https://www.theflatearthsociety.org/home/index.php/featured/maps",
+        "body": "Voliva's World Map As taught in the schools of Zion, Il this map represents the official view of Mayor WIlbur Glenn Voliva. Very similar to many other flat earth maps, this one is notable in …",
+        "highlighted_body": "Voliva's World Map As taught in the schools of Zion, Il this map represents the official view of Mayor WIlbur Glenn Voliva. Very similar to many other flat earth maps, this one is notable in …"
+      },
+      {
+        "title": "About :: concrete5 - The Flat Earth Society",
+        "url": "https://www.theflatearthsociety.org/home/index.php/about-the-society",
+        "body": "The Flat Earth Society mans the guns against oppression of thought and the Globularist lies of a new age. Standing with reason we offer a home to those wayward thinkers that march bravely …",
+        "highlighted_body": "The Flat Earth Society mans the guns against oppression of thought and the Globularist lies of a new age. Standing with reason we offer a home to those wayward thinkers that march bravely …"
+      }
+    ],
+    "timestamp": "2025-12-29T01:47:59.001375",
+    "claim_preview": "Earth is flat",
+    "normalized_claim": "earth flat"
+  },
+  "444254afd42d44c8d5880ecede76e900a59485db7ba517b5d89c5626f43134a1": {
+    "score": 30,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our ",
+      "❌ Sanity Check: Detected obviously false or exaggerated claim."
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": false
+    },
+    "related_articles": [],
+    "timestamp": "2025-12-29T01:53:42.051976",
+    "claim_preview": "Covid-19 is 100% fatal",
+    "normalized_claim": "covid1919 100 fatal"
+  },
+  "c9c6eec533dfb9aaaf817aff5c513bad89758874e2c551d7044337594557ff7d": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "astronomy - How big a coincidence is the Sun and Moon having almost ...",
+        "url": "https://physics.stackexchange.com/questions/548841/how-big-a-coincidence-is-the-sun-and-moon-having-almost-equal-apparent-sizes",
+        "body": "May 3, 2020 · It's consensus that the very similar apparent sizes of the Moon and the Sun as seen from Earth is a coincidence (as already answered in this site). This provides us with almost exact total solar",
+        "highlighted_body": "May 3, 2020 · It's consensus that the very similar apparent sizes of the Moon and the Sun as seen from Earth is a coincidence (as already answered in this site). This provides us with almost exact total solar"
+      },
+      {
+        "title": "How much lux does the Sun emit? - Physics Stack Exchange",
+        "url": "https://physics.stackexchange.com/questions/167463/how-much-lux-does-the-sun-emit",
+        "body": "I want to know how much lux the sun emits on a bright day - I don't mean when one stares directly at the sun, but rather when one walks casually outside when the sun is shinning brightly. Now the",
+        "highlighted_body": "I want to know how much lux the sun emits on a bright day - I don't mean when one stares directly at the sun, but rather when one walks casually outside when the sun is shinning brightly. Now the"
+      },
+      {
+        "title": "How long until the sun cannot sustain human life on earth?",
+        "url": "https://physics.stackexchange.com/questions/39098/how-long-until-the-sun-cannot-sustain-human-life-on-earth",
+        "body": "The sun will last, at its current brightness for 9 billion more years. How long until the sun gets burned down to the point where it cannot sustain life on Earth anymore? Updated: I am more concer...",
+        "highlighted_body": "The sun will last, at its current brightness for 9 billion more years. How long until the sun gets burned down to the point where it cannot sustain life on Earth anymore? Updated: I am more concer..."
+      }
+    ],
+    "timestamp": "2025-12-29T01:56:29.865871",
+    "claim_preview": "Sun is Not a Start",
+    "normalized_claim": "sun not start"
+  },
+  "7fa0dadb60b196c4690a07f81da4f1579fb9e4364e4ae8261aed08a2454aa816": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T02:21:29.931078",
+    "claim_preview": "Artificial Intelligence will eventually destroy humanity.",
+    "normalized_claim": "artificial intelligence will eventually destroy humanity"
+  },
+  "dc650f29eef787031f0824350477f05ee4fa944923a3d2a079e8e7e478e73d9d": {
+    "score": 70,
+    "flags": [
+      "🧠 Subjective language detected (Score: 0.90).",
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "We know the risks of AI — here's how we can mitigate them",
+        "url": "https://www.weforum.org/stories/2024/09/10c45559-5e47-4aea-9905-b87217a9cfd7/",
+        "body": "Sep 10, 2024 · We must start mitigating the risks of AI. That means building risk mitigation tools into policy frameworks, like those being developed in the US and EU.",
+        "highlighted_body": "Sep 10, 2024 · We must start mitigating the risks of AI. That means building risk mitigation tools into policy frameworks, like those being developed in the US and EU."
+      },
+      {
+        "title": "AI red lines: the opportunities and challenges of setting limits",
+        "url": "https://www.weforum.org/stories/2025/03/ai-red-lines-uses-behaviours/",
+        "body": "Mar 11, 2025 · Behavioural red lines – governing both human uses and autonomous actions – are necessary to ensure AI remains in line with societal norms.",
+        "highlighted_body": "Mar 11, 2025 · Behavioural red lines – governing both human uses and autonomous actions – are necessary to ensure AI remains in line with societal norms."
+      },
+      {
+        "title": "Detecting dangerous AI is essential in the deepfake era",
+        "url": "https://www.weforum.org/stories/2025/07/why-detecting-dangerous-ai-is-key-to-keeping-trust-alive/",
+        "body": "Jul 7, 2025 · As January's $25.5m deepfake fraud incident highlighted, detecting dangerous AI is not simply a technical challenge, it's vital to preserving public trust.",
+        "highlighted_body": "Jul 7, 2025 · As January's $25.5m deepfake fraud incident highlighted, detecting dangerous AI is not simply a technical challenge, it's vital to preserving public trust."
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T02:26:25.752270",
+    "claim_preview": "Is Ai dangerous?",
+    "normalized_claim": "ai dangerous"
+  },
+  "0a78d3fc25f8b6b77f494bb7f9f73b5f12b8663d2ae416b37b2368df6b160b06": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Narendra Modi - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "body": "Narendra Damodardas Modi[a] (born 17 September 1950) is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 …",
+        "highlighted_body": "Narendra Damodardas Modi[a] (born 17 September 1950) is an Indian politician who has served as the prime minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 …"
+      },
+      {
+        "title": "Narendra Modi | NarendraModi.in Official Website of Prime Minister …",
+        "url": "https://www.narendramodi.in/",
+        "body": "Narendra Modi, the 14th Prime Minister of India, is a figure whose political journey is as intriguing as inspiring. Rising from humble beginnings, Modi's ascent through the ranks of the Rashtriya …",
+        "highlighted_body": "Narendra Modi, the 14th Prime Minister of India, is a figure whose political journey is as intriguing as inspiring. Rising from humble beginnings, Modi's ascent through the ranks of the Rashtriya …"
+      },
+      {
+        "title": "Prime Minister of India",
+        "url": "https://www.pmindia.gov.in/en/",
+        "body": "2 days ago · Shri Narendra Modi was sworn-in as India’s Prime Minister for the third time on 9th June 2024, following another decisive victory in the 2024 Parliamentary elections.",
+        "highlighted_body": "2 days ago · Shri Narendra Modi was sworn-in as India’s Prime Minister for the third time on 9th June 2024, following another decisive victory in the 2024 Parliamentary elections."
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T02:33:22.215373",
+    "claim_preview": "is modi a thief",
+    "normalized_claim": "modi thief"
+  },
+  "b4c8b299887e51111af72411cf2d66f924841f1d5f76513a3d6a08de8901a5c5": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T02:34:16.695512",
+    "claim_preview": "Delhi is polluted",
+    "normalized_claim": "delhi polluted"
+  },
+  "caca040b12ab4206c1dbe827a7856901354d40f55fcda54419ac1a2569915fbf": {
+    "score": 70,
+    "flags": [
+      "🧠 Subjective language detected (Score: 0.83).",
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Coronavirus disease (COVID-19)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+        "body": "Nov 27, 2025 · WHO fact sheet on COVID-19, including information on symptoms, transmission, treatment, prevention, vaccines and and WHO's work in this area.",
+        "highlighted_body": "Nov 27, 2025 · WHO fact sheet on COVID-19, including information on symptoms, transmission, treatment, prevention, vaccines and and WHO's work in this area."
+      },
+      {
+        "title": "Coronavirus disease (COVID-19) - World Health Organization (WHO)",
+        "url": "https://www.who.int/health-topics/coronavirus",
+        "body": "Dec 5, 2025 · Coronavirus disease (COVID-19)The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. …",
+        "highlighted_body": "Dec 5, 2025 · Coronavirus disease (COVID-19)The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. …"
+      },
+      {
+        "title": "Coronavirus disease (COVID-19) pandemic",
+        "url": "https://www.who.int/europe/emergencies/situations/covid-19",
+        "body": "The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV …",
+        "highlighted_body": "The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:31:26.113035",
+    "claim_preview": "Covid-19 does not spread easily",
+    "normalized_claim": "covid1919 does not spread easily"
+  },
+  "f15f4e1bbe8ef8e4a7b4b7a278772aca5118b69c2b2eaa06afc2c2528272ff4b": {
+    "score": 20,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our ",
+      "❌ Deterministic Check: India is a sovereign country."
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": false
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:31:29.893795",
+    "claim_preview": "India is not a country\n",
+    "normalized_claim": "india not country"
+  },
+  "98bc1af1e27b29eb7849240a5984d363b199cf542f99feb28026a2dc43b78b22": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:48:57.027122",
+    "claim_preview": "The planet Mars is inhabited by tiny green elephants 987654321",
+    "normalized_claim": "planet mars inhabited by tiny green elephants 987654321"
+  },
+  "c42bf4884944f55f20a47d6492e2edced4dbde1bfb60ba3f819290e5cbcaa1c0": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:50:05.840515",
+    "claim_preview": "The ocean is made of grape soda 55555",
+    "normalized_claim": "ocean made of grape soda 55555"
+  },
+  "7ec00614a2698933839e65ff5c1738dd25a39525a0bdc3b8b4994252b3f836e9": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "What is Human Capital? Everything You Need to Know",
+        "url": "https://www.weforum.org/stories/2019/06/what-is-human-capital-know/",
+        "body": "Jun 27, 2019 · Here's what is human capital. There's nothing more positive in economics than investing in people. But how do you measure its effectiveness?",
+        "highlighted_body": "Jun 27, 2019 · Here's what is human capital. There's nothing more positive in economics than investing in people. But how do you measure its effectiveness?"
+      },
+      {
+        "title": "How capital flows are changing the economic status quo",
+        "url": "https://www.weforum.org/stories/2025/02/why-capital-flows-have-the-potential-to-change-the-economic-status-quo/",
+        "body": "Feb 20, 2025 · Traditional capital flows dominated by Western economies are evolving – financial hubs are emerging across Asia and playing a larger role in global investment. The emerging …",
+        "highlighted_body": "Feb 20, 2025 · Traditional capital flows dominated by Western economies are evolving – financial hubs are emerging across Asia and playing a larger role in global investment. The emerging …"
+      },
+      {
+        "title": "How effective are capital controls? | World Economic Forum",
+        "url": "https://www.weforum.org/stories/2015/04/how-effective-are-capital-controls/",
+        "body": "Apr 2, 2015 · The World Economic Forum is an independent international organization committed to improving the state of the world by engaging business, political, academic and other leaders …",
+        "highlighted_body": "Apr 2, 2015 · The World Economic Forum is an independent international organization committed to improving the state of the world by engaging business, political, academic and other leaders …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:53:01.694594",
+    "claim_preview": "The capital of France is Paris",
+    "normalized_claim": "capital of france paris"
+  },
+  "ad3184a32a570f2f80705bbaa1688f81bf0750534e5799d0c3ffafeb0f6343c0": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T07:57:21.937975",
+    "claim_preview": "Earth is not flat",
+    "normalized_claim": "earth not flat"
+  },
+  "00cf7a69f10709c4a8cc7728bce21ad0c2d709a8414a79611cffcff918c0fd4f": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:07:43.354025",
+    "claim_preview": "Covid-19 is not fatal",
+    "normalized_claim": "covid1919 not fatal"
+  },
+  "7e4e62f4f198f147c9ec4e8d22ef29d0f112fb60021e44bdada7031bcba48d2e": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Unauthorized"
+    ],
+    "ai_report": "AI verification failed: Unauthorized",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Coronavirus disease (COVID-19)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+        "body": "Nov 27, 2025 · WHO fact sheet on COVID-19, including information on symptoms, transmission, treatment, prevention, vaccines and and WHO's work in this area.",
+        "highlighted_body": "Nov 27, 2025 · WHO fact sheet on COVID-19, including information on symptoms, transmission, treatment, prevention, vaccines and and WHO's work in this area."
+      },
+      {
+        "title": "Coronavirus disease (COVID-19) - World Health Organization (WHO)",
+        "url": "https://www.who.int/health-topics/coronavirus",
+        "body": "Dec 5, 2025 · Coronavirus disease (COVID-19)The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These …",
+        "highlighted_body": "Dec 5, 2025 · Coronavirus disease (COVID-19)The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These …"
+      },
+      {
+        "title": "Coronavirus disease (COVID-19) pandemic",
+        "url": "https://www.who.int/europe/emergencies/situations/covid-19",
+        "body": "The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV …",
+        "highlighted_body": "The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:07:59.401790",
+    "claim_preview": "Covid-19 is fatal",
+    "normalized_claim": "covid1919 fatal"
+  },
+  "de44abba243fdb8600ec8cb89f106ef01dc51eb30b4b81b281b3ae153d799817": {
+    "score": 70,
+    "flags": [
+      "⚠️ AI verification unavailable: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our "
+    ],
+    "ai_report": "AI verification failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": null,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:20:40.112341",
+    "claim_preview": "The sky is green",
+    "normalized_claim": "sky green"
+  },
+  "f20833e78dce0c32f3ad55a35aa91e0dc4966e74b44164de88f7271cdd095089": {
+    "score": 20,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false.",
+      "❌ Deterministic Check: India is a sovereign country."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: India is recognized as a sovereign nation and is a member of the United Nations.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:32:10.206589",
+    "claim_preview": "India is not a country",
+    "normalized_claim": "India is a country."
+  },
+  "f592f817d65ed65c2dd526df1d3814a2ca4610f1949d6f38c30a5c9d05d97941": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: The moon is composed of rock and dust, not cheese.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "related_articles": [
+      {
+        "title": "月神moon（电竞选手） - 知乎",
+        "url": "https://www.zhihu.com/topic/19762485/intro",
+        "body": "张宰怙（Jang Jae-Ho），游戏ID：Moon，1986年12月14日出生于韩国仁川，魔兽争霸3职业选手，天才型选手，他所使用的暗夜精灵种族被称为第五种族。",
+        "highlighted_body": "张宰怙（Jang Jae-Ho），游戏ID：Moon，1986年12月14日出生于韩国仁川，魔兽争霸3职业选手，天才型选手，他所使用的暗夜精灵种族被称为第五种族。"
+      },
+      {
+        "title": "Moon Link使用教程来咯~教你用VR看电脑上的视频！VR看片so …",
+        "url": "https://www.zhihu.com/zvideo/1637888896204763137",
+        "body": "May 5, 2023 · 最近很多下载了Moon VR视频播放器的小伙伴们对于如何使用Moon Link还存在一些疑问 这不官方就来整活啦！ Mac版Moon Link使用教程来咯！",
+        "highlighted_body": "May 5, 2023 · 最近很多下载了Moon VR视频播放器的小伙伴们对于如何使用Moon Link还存在一些疑问 这不官方就来整活啦！ <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Mac版Moon Link使用教程来咯！</span>"
+      },
+      {
+        "title": "Type-Moon（型月）是如何发展到今天这般庞然大物的？ - 知乎",
+        "url": "https://www.zhihu.com/question/1899593855692694635",
+        "body": "Type-Moon（型月）是如何发展到今天这般庞然大物的？ 型月从一个同人社团，到如今游戏包含主机，视觉小说，手游各种类型的庞然大物（对于其他当年的视觉小说社团来说），他是怎么做 …",
+        "highlighted_body": "Type-Moon（型月）是如何发展到今天这般庞然大物的？ 型月从一个同人社团，到如今游戏包含主机，视觉小说，手游各种类型的庞然大物（对于其他当年的视觉小说社团来说），他是怎么做 …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:34:33.967753",
+    "claim_preview": "The moon is made of green cheese",
+    "normalized_claim": "The Moon is made of green cheese."
+  },
+  "67dca20bb00887d2dd344228f79bde0d3743ab65c6022e2c66114332787e9e55": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Water boils at 100 degrees Celsius at standard atmospheric pressure (1 atm).",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Water - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Water",
+        "body": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, [c] and nearly colorless chemical substance. It is the main constituent of Earth's …",
+        "highlighted_body": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, [c] and nearly colorless chemical substance. It is the main constituent of Earth's …"
+      },
+      {
+        "title": "होम : सेक्टोरल पोर्टल, राजस्थान सरकार",
+        "url": "https://water.rajasthan.gov.in/",
+        "body": "In Rajasthan, the Institute (IMTI) was established at Kota in August 1984. An assistance to the institute for training and infrastructure development etc. was given under US AID programme …",
+        "highlighted_body": "In Rajasthan, the Institute (IMTI) was established at Kota in August 1984. An assistance to the institute for training and infrastructure development etc. was given under US AID programme …"
+      },
+      {
+        "title": "Water | Definition, Chemical Formula, Structure, Molecule,",
+        "url": "https://www.britannica.com/science/water",
+        "body": "Nov 7, 2025 · Water, substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful of compounds and …",
+        "highlighted_body": "Nov 7, 2025 · Water, substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful of compounds and …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:35:23.181754",
+    "claim_preview": "Water boils at 100 degrees Celsius",
+    "normalized_claim": "Water boils at 100 degrees Celsius."
+  },
+  "6b412fa6ffdaa4e2316a869929f4558d8c64937829e65e902996137dbc8b62c2": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: Delhi is widely recognized as one of the most polluted cities in the world, with high levels of air pollution.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:37:00.509601",
+    "claim_preview": "Delhi is a very Polluted\n",
+    "normalized_claim": "Delhi is very polluted."
+  },
+  "b829de354e4f07e991bebefb0ca3e640d4ed0a82aad80648f1f187034184d93c": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The preference for working from home versus working in an office varies based on individual circumstances and job requirements.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Work From Home vs Work From Office: Which is Better?",
+        "url": "https://digest.myhq.in/work-from-home-vs-work-from-office-which-is-better/",
+        "body": "Nov 27, 2023 · Working from home and working from an office both have advantages and disadvantages. Checkout the detailed pros and cons of WFH vs WFO.myHQ Digest Coworking Spaces Day Passes & Work Cafes Virtual Offices Meeting Rooms",
+        "highlighted_body": "CLAIM: Work from home is better than working in an office  \nTEXT: Nov 27, 2023 · <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Working from home and working from an office both have advantages and disadvantages.</span> Checkout the detailed pros and cons of WFH vs WFO.myHQ Digest Coworking Spaces Day Passes & Work Cafes Virtual Offices Meeting Rooms"
+      },
+      {
+        "title": "Working From Home vs. Office: Pros & Cons - Nextiva",
+        "url": "https://www.nextiva.com/blog/working-from-home-vs-office.html",
+        "body": "Dec 18, 2025 · Which is better, working from home or in an office? Here are the pros and cons of each so you can decide what's your best work environment.",
+        "highlighted_body": "CLAIM: Work from home is better than working in an office  \nTEXT: Dec 18, 2025 · <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Which is better, working from home or in an office?</span> Here are the pros and cons of each so you can decide what's your best work environment."
+      },
+      {
+        "title": "Working From Home vs. Working in an Office (Pros and Cons)",
+        "url": "https://www.indeed.com/career-advice/career-development/work-from-home-vs-office",
+        "body": "Dec 11, 2025 · Choosing the work environment that suits your skills and work responsibilities can increase your productivity and improve your work satisfaction. In this article, we compare …",
+        "highlighted_body": "CLAIM: Work from home is better than working in an office  \nTEXT: Dec 11, 2025 · <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Choosing the work environment that suits your skills and work responsibilities can increase your productivity and improve your work satisfaction.</span> In this article, we compare …"
+      }
+    ],
+    "pointers": [
+      "Consider the impact of work environment on productivity and job satisfaction for different individuals.",
+      "Evaluate the importance of social interaction and collaboration that an office setting may provide.",
+      "Reflect on personal work style and how it aligns with remote or in-office work."
+    ],
+    "timestamp": "2025-12-29T08:42:23.554174",
+    "claim_preview": "Work from home is better than working in an office",
+    "normalized_claim": "Working from home is better than working in an office."
+  },
+  "28cbb49143c2c5c3b96f8e90afb76b8cd598952079576002b3c758bdb32fb327": {
+    "score": 75,
+    "flags": [
+      "🧠 Subjective language detected (Score: 0.67).",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The impact of AI on jobs can vary widely depending on the industry, job type, and economic context.",
+    "is_subjective": true,
+    "checklist": {
+      "objective_language": false,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [
+      "Consider how AI can create new job opportunities while also automating existing roles.",
+      "Analyze different sectors to see where AI has led to job displacement versus job creation.",
+      "Reflect on the potential for AI to enhance productivity and the skills required in the workforce."
+    ],
+    "timestamp": "2025-12-29T08:45:13.559886",
+    "claim_preview": "AI is bad for jobs",
+    "normalized_claim": "Artificial intelligence is detrimental to employment."
+  },
+  "ff69a7e465bb3dfd2ec3cf8a91f8a6425d8a1dc943e05c761380ab5c83eb0d9f": {
+    "score": 30,
+    "flags": [
+      "❌ AI Verdict: Claim is factually false."
+    ],
+    "ai_report": "VERDICT: FALSE  \nEXPLANATION: Mars is a rocky planet with a roughly spherical shape, similar to Earth.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": false,
+      "sanity_check": false
+    },
+    "related_articles": [
+      {
+        "title": "Mars - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mars",
+        "body": "In 1971 Mariner 9 entered orbit around Mars, being the first spacecraft to orbit any body other than the Moon, Sun or Earth; following in the same year were the first uncontrolled impact …",
+        "highlighted_body": "In 1971 Mariner 9 entered orbit around Mars, being the first spacecraft to orbit any body other than the Moon, Sun or Earth; following in the same year were the first uncontrolled impact <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>…</span>"
+      },
+      {
+        "title": "Mars - NASA Science",
+        "url": "https://mars.nasa.gov/",
+        "body": "Nov 24, 2025 · Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited entirely by robots.",
+        "highlighted_body": "Nov 24, 2025 · Mars is the fourth planet from the Sun, and the seventh largest. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>It’s the only planet we know of inhabited entirely by robots.</span>"
+      },
+      {
+        "title": "Mars | Facts, Surface, Moons, Temperature, & Atmosphere ...",
+        "url": "https://www.britannica.com/place/Mars-planet",
+        "body": "2 days ago · Mars is the fourth planet in the solar system in order of distance from the Sun and the seventh in size and mass. It is a periodically conspicuous reddish object in the night sky. …",
+        "highlighted_body": "2 days ago · Mars is the fourth planet in the solar system in order of distance from the Sun and the seventh in size and mass. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>It is a periodically conspicuous reddish object in the night sky.</span> …"
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:51:32.731406",
+    "claim_preview": "mars is flat",
+    "normalized_claim": "Mars is flat."
+  },
+  "7589d687996a24348c04ed38b4da3637c284d7c5e08588c76b7bcb9a023298e6": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: The Earth is an oblate spheroid, which is a type of sphere.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:53:23.198553",
+    "claim_preview": "Earth is a sphere",
+    "normalized_claim": "Earth is a sphere."
+  },
+  "e27093d072e9c41c48da95d8ea4acfccd02ae172d8a2a0cfcad8a8cafd3f72ca": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: The Earth is scientifically established to be an oblate spheroid, not flat.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "Ajuda do Google Earth",
+        "url": "https://support.google.com/earth/?hl=pt-BR",
+        "body": "Central de Ajuda oficial do Google Earth, onde você pode encontrar dicas e tutoriais sobre como usar o produto e outras respostas a perguntas frequentes.",
+        "highlighted_body": "Central de Ajuda oficial do Google Earth, onde você pode encontrar dicas e tutoriais sobre como usar o produto e outras respostas a perguntas frequentes."
+      },
+      {
+        "title": "Installer et désinstaller Google Earth Pro - Aide Google Earth",
+        "url": "https://support.google.com/earth/answer/21955?hl=fr",
+        "body": "Google Earth Pro fonctionne avec les versions les plus récentes des distributions Linux Ubuntu et Fedora. Google Earth Pro peut également fonctionner avec d'autres distributions courantes, …",
+        "highlighted_body": "Google Earth Pro fonctionne avec les versions les plus récentes des distributions Linux Ubuntu et Fedora. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>Google Earth Pro peut également fonctionner avec d'autres distributions courantes, …</span>"
+      },
+      {
+        "title": "Google Earth Help",
+        "url": "https://support.google.com/earth/?hl=en",
+        "body": "Official Google Earth Help Center where you can find tips and tutorials on using Google Earth and other answers to frequently asked questions.",
+        "highlighted_body": "Official Google Earth Help Center where you can find tips and tutorials on using Google Earth and other answers to frequently asked questions."
+      }
+    ],
+    "pointers": [],
+    "timestamp": "2025-12-29T08:54:48.790883",
+    "claim_preview": "Earth is not flat and instead a sphere",
+    "normalized_claim": "Earth is a sphere, not flat."
+  },
+  "b851fd1ddef1ad37979fbf4f6e325eaaca8285468daf986a63b44c12d5b9c7c2": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The comparison between countries is subjective and depends on various criteria such as economy, culture, and quality of life.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "India - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/India",
+        "body": "India, officially the Republic of India, [j][20] is a country in South Asia.",
+        "highlighted_body": "CLAIM: India is better than the USA  \nTEXT: India, officially the Republic of India, [j][20] is a country in South Asia."
+      },
+      {
+        "title": "India | History, Maps, Population, Economy, & Facts | Britannica",
+        "url": "https://www.britannica.com/place/India",
+        "body": "2 days ago · India is a country that occupies the greater part of South Asia. It is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups. It …",
+        "highlighted_body": "CLAIM: India is better than the USA  \nTEXT: 2 days ago · <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>India is a country that occupies the greater part of South Asia.</span> It is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups. It …"
+      },
+      {
+        "title": "Home | Know India: National Portal of India",
+        "url": "https://knowindia.india.gov.in/",
+        "body": "India is one of the oldest civilizations in the world with a kaleidoscopic variety and rich cultural heritage. It has achieved all-round socio-economic progress since Independence.",
+        "highlighted_body": "CLAIM: India is better than the USA  \nTEXT: India is one of the oldest civilizations in the world with a kaleidoscopic variety and rich cultural heritage. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>It has achieved all-round socio-economic progress since Independence.</span>"
+      }
+    ],
+    "pointers": [
+      "Consider what specific aspects (e.g., economy, education, healthcare) are being compared.",
+      "Reflect on personal values and priorities that might influence the perception of \"better.\"",
+      "Acknowledge that different people may have different experiences and opinions regarding each country."
+    ],
+    "timestamp": "2025-12-29T09:10:12.992603",
+    "claim_preview": "India is better than the USA",
+    "normalized_claim": "India is better than the United States."
+  },
+  "f36c94b0d068785343ae9fddda5b77e8f8ef0b02542334a73bf417e60c920f50": {
+    "score": 75,
+    "flags": [
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The preference for apples over bananas is subjective and varies from person to person.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "related_articles": [
+      {
+        "title": "I like apple？还是apples？他们有什么区别？再举一下其他单词",
+        "url": "https://zhidao.baidu.com/question/582432330322069925.html",
+        "body": "I like apples. 区别：数量的区别，apple是一个苹果，apples是两个及两个以上的苹果。当英语单词为可数名词单数时，前面需要加上定冠词如I like an apple. 其他单词：：bag-bags，biscuit …",
+        "highlighted_body": "CLAIM: Apples are better than bananas\n\nTEXT: I like apples. <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>区别：数量的区别，apple是一个苹果，apples是两个及两个以上的苹果。</span> 当英语单词为可数名词单数时，前面需要加上定冠词如I like an apple. 其他单词：：bag-bags，biscuit …"
+      },
+      {
+        "title": "an apple 和 the apple 和 apples 和 the apples 我不太理解 哪位高手 …",
+        "url": "https://zhidao.baidu.com/question/386880007.html",
+        "body": "Feb 29, 2012 · an apple 和 the apple 和 apples 和 the apples 我不太理解 哪位高手指点一点。。。an apple 只一个苹果 eg： I want an apple for my birthday. 我想要一个苹果作为生日礼物。the …",
+        "highlighted_body": "CLAIM: Apples are better than bananas\n\nTEXT: Feb 29, 2012 · an apple 和 the apple 和 apples 和 the apples 我不太理解 哪位高手指点一点。。。<span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>an apple 只一个苹果 eg： I want an apple for my birthday.</span> 我想要一个苹果作为生日礼物。the …"
+      },
+      {
+        "title": "He likes apple和He like apples意思一样吗？ - 百度知道",
+        "url": "https://zhidao.baidu.com/question/438606074818361324.html",
+        "body": "He likes apples才是对的。 在一般现在时态下，第三人称单数（即he、she、it，Lily，a cat、a dog等），后面的谓语动词都要加s（或es或改y变i+es），俗称第三人称单数动词变化 注释： …",
+        "highlighted_body": "CLAIM: Apples are better than bananas\n\nTEXT: He likes apples才是对的。 <span style='background-color: #fff2cc; border-bottom: 2px solid #e6b800; font-weight: bold; color: #2d241a;'>在一般现在时态下，第三人称单数（即he、she、it，Lily，a cat、a dog等），后面的谓语动词都要加s（或es或改y变i+es），俗称第三人称单数动词变化</span> 注释： …"
+      }
+    ],
+    "pointers": [
+      "Consider personal taste preferences and dietary needs.",
+      "Evaluate the nutritional benefits of each fruit.",
+      "Think about the context in which the fruits are consumed (e.g., snacks, recipes)."
+    ],
+    "timestamp": "2025-12-29T09:16:38.025553",
+    "claim_preview": "Apples are better than bananas\n",
+    "normalized_claim": "Apples are superior to bananas."
+  },
+  "c323dfabe3fe3acd61ca6b135c290f816fb94c817257fb4ad7163499d1659f50": {
+    "score": 75,
+    "flags": [
+      "ℹ️ Extracted article content from URL.",
+      "⚠️ AI Verdict: Claim cannot be verified confidently."
+    ],
+    "ai_report": "VERDICT: UNCERTAIN  \nEXPLANATION: The claim involves ongoing allegations and a request for removal of content, which cannot be definitively verified as true or false without further context or evidence.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": true,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": "uncertain",
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [
+      "The nature of allegations in political contexts can often be subjective and influenced by various factors.",
+      "The credibility of the sources making the allegations and the accused's response can impact public perception.",
+      "Legal outcomes or investigations may provide clarity on the situation over time."
+    ],
+    "timestamp": "2025-12-29T09:46:14.179185",
+    "claim_preview": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-leader-urges-govt-to-remove-video-implying-his-involvement-in-ankita-bhandari-murder/articleshow/126182217.cms",
+    "normalized_claim": "BJP leader urges government to remove video implying his involvement in Ankita Bhandari murder."
+  },
+  "1c00730c93da30b791a603580a97ae2b0c315691af5e1b91bbdd0a293695538f": {
+    "score": 100,
+    "flags": [],
+    "ai_report": "VERDICT: TRUE  \nEXPLANATION: An apple is classified botanically as a fruit.",
+    "is_subjective": false,
+    "checklist": {
+      "objective_language": true,
+      "url_extraction": null,
+      "no_panic_pattern": true,
+      "no_shouting": true,
+      "ai_verification": true,
+      "sanity_check": true
+    },
+    "related_articles": [],
+    "pointers": [],
+    "timestamp": "2025-12-29T09:52:08.348532",
+    "claim_preview": "Apple is a fruit\n",
+    "normalized_claim": "Apple is a fruit."
+  }
+}

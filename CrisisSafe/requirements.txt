@@ -1,0 +1,10 @@
+streamlit
+supabase
+st-supabase-connection
+nltk
+pandas
+openai
+python-dotenv
+newspaper3k
+textblob
+duckduckgo-search
