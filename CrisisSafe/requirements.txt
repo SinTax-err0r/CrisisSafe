@@ -7,4 +7,6 @@ openai
 python-dotenv
 newspaper3k
 textblob
-duckduckgo-search
+duckduckgo
+lxml
+lxml_html_clean
