@@ -6,5 +6,7 @@ pandas
 openai
 python-dotenv
 newspaper3k
+lxml
+lxml_html_clean
 textblob
 duckduckgo-search==8.1.1
